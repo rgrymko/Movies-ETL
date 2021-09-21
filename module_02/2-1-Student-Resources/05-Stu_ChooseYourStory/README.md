@@ -13,3 +13,7 @@
   * If the user enters a value of 4, display a similar custom message.
 
   * If the user enters anything else, display: “Try following directions”
+  
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

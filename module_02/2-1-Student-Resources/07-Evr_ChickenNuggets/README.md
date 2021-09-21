@@ -19,3 +19,6 @@ Now it's your chance to see how quickly we can create data utilizing the power o
 | I will eat | 19 | Chicken Nuggets |
 | I will eat | 20 | Chicken Nuggets |
 
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
