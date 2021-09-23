@@ -19,3 +19,7 @@
 * Create a second button that resets the grades to the original state and then establishes the previous grade in a row labeled "Last Grade."
 
 * Hint: the built-in color value for no fill is 'xlNone'
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
