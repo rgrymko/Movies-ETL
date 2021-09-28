@@ -17,3 +17,7 @@
 ## **Hint**
 
 * For additional help with f-strings, visit [Python 3's f-Strings](https://realpython.com/python-f-strings/).
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

@@ -13,3 +13,7 @@
   * How many hobbies your pet has.
   * What your pet's favorite hobby is.
   * What time your pet wakes on one of the days of the week.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

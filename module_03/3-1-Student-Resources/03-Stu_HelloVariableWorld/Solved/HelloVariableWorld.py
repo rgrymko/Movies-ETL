@@ -1,14 +1,14 @@
 # Create a variable called 'name' that holds a string
-name = "Name X"
+name = "Jacob Deming"
 
 # Create a variable called 'country' that holds a string
-country = "Russia"
+country = "United States"
 
 # Create a variable called 'age' that holds an integer
-age = 35
+age = 25
 
 # Create a variable called 'hourly_wage' that holds an integer
-hourly_wage = 82
+hourly_wage = 15
 
 # Calculate the daily wage for the user
 daily_wage = hourly_wage * 8
@@ -17,17 +17,16 @@ daily_wage = hourly_wage * 8
 satisfied = True
 
 # Print out "Hello <name>!"
-print(f"Hello {name}")
+print("Hello " + name + "!")
 
 # Print out what country the user entered
-print("Is from " + country)
-print(f"Is from {country}")
+print("You live in " + country)
 
 # Print out the user's age
-print(f"{name} is {age}")
+print("You are " + str(age) + " years old")
 
 # With an f-string, print out the daily wage that was calculated
-print(f"He makes {daily_wage} a day")
+print(f"You make {daily_wage} per day")
 
 # With an f-string, print out whether the users were satisfied
-print(f"It is {satisfied} that they were satisfied")
+print(f"Are you satisfied with your current wage? {satisfied}")
