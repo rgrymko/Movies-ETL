@@ -24,3 +24,7 @@ Writing movie data to text file.
     ```
 
 * If the CSV does not contain the user's video then print out a message telling them that their video could not be found.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

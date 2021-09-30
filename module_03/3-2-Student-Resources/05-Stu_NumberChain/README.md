@@ -15,3 +15,7 @@ Chain up the numbers
 ## Bonus
 
 * Rather than just displaying numbers constantly starting at 0, have the numbers begin at the end of the previous chain.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

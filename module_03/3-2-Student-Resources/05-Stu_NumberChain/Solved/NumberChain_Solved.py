@@ -5,12 +5,13 @@ user_play = "y"
 while user_play == "y":
 
     # Ask the user how many numbers to loop through
-    user_number = int(input("What number do you want?"))
+    user_number = int(input("How many numbers? "))
+
     # Loop through the numbers. (Be sure to cast the string into an integer.)
-    for y in range(user_number):
+    for x in range(user_number):
 
         # Print each number in the range
-        print(y)
+        print(x)
 
     # Once complete...
     user_play = input("Continue: (y)es or (n)o? ")

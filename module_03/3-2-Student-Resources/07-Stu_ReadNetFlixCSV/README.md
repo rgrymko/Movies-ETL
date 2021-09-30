@@ -27,3 +27,7 @@ Find the info to some of Netflix's most popular videos
   * Insert a `break` statement into the `for loop` to stop the loop when the **first** movie is found. See the [documentation](https://docs.python.org/3.6/reference/simple_stmts.html#break) for additional info.
 
   * If the CSV does not contain the user's video then print out a message telling them that their video could not be found.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
