@@ -15,3 +15,7 @@
 * Find the combined weight of all of the students at the gym
 
 * Convert the "Membership (Days)" column into weeks and then add this new series into the DataFrame
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

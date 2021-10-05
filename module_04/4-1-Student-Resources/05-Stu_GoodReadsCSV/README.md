@@ -17,3 +17,7 @@
 * The base CSV file uses UTF-8 encoding. Trying to read in the file using some other kind of encoding could lead to strange characters appearing within the dataset.
 
 Data Source: [Goodreads Dataset](http://fastml.com/goodbooks-10k-a-new-dataset-for-book-recommendations/)
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
