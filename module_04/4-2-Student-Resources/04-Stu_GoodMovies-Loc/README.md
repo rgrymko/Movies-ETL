@@ -13,3 +13,7 @@
 * Find less popular movies that you may not have heard about - i.e., anything with under 20K votes
 
 Data Source:[Moving Rating Dataset](https://github.com/fivethirtyeight/data/blob/master/fandango/fandango_score_comparison.csv)
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

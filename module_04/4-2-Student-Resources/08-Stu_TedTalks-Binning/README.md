@@ -13,3 +13,7 @@
 * Group the DataFrame based upon the values within "View Group".
 
 * Find out how many rows fall into each group before finding the averages for "comments", "duration", and "languages".
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
