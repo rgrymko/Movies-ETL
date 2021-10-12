@@ -8,6 +8,6 @@
 
 * Create a new list called `scoop_price`, fill it with values, and then set it so that the size of the dots are set according to those values.
 
-- - -
+---
 
-© 2019 Trilogy Education Services
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

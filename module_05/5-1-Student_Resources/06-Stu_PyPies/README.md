@@ -4,6 +4,6 @@
 
 * Using the [starter file](Unsolved/py_pie_unsolved.ipynb), create a pie chart that matches the image provided.
 
-- - -
+---
 
-© 2019 Trilogy Education Services
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
