@@ -21,7 +21,7 @@ Your task is to plot the _total_ number of battles each king in the Game of Thro
 * Display your plot. Which king participated in the most battles? The least?
 
 Data Source: [Game of Thrones Dataset](https://data.world/data-society/game-of-thrones)
-- - -
 
+---
 
-© 2020 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
