@@ -22,8 +22,6 @@
 
 * **Warning:** Be sure not to print out any of the query URLs. The query URLs will include your API key and if pushed to a public repository, it becomes a security risk for you as someone could steal and use your key. 
 
-- - -
+---
 
-## Copyright
-
-Data Boot Camp © 2019. All Rights Reserved.
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

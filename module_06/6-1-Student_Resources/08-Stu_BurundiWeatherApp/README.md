@@ -19,3 +19,7 @@ This activity gives students practice with making API calls and handling respons
 * Augment your code to report the temperature in both Fahrenheit _and_ Celsius.
 
 ### Note: Don't forget to change the API key in config.py!
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

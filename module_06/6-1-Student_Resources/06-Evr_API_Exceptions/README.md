@@ -11,3 +11,7 @@ Not every call placed to an API will return a result. In this activity, you will
 * Create a DataFrame from the results.
 
 * Drop any rows with null values to remove characters not in the Star Wars universe.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
