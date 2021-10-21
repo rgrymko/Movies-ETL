@@ -29,3 +29,7 @@ In this activity, you are tasked with creating a DataFrame containing the rating
 * When using the Google Places API, be sure to use the term "International Airport" to ensure that the data received is for the major airport in the city and not a regional airport.
 
 * Use a try-except to skip airports for which there are no Google user's ratings.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

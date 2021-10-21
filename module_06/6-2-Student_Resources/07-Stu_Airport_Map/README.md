@@ -35,3 +35,7 @@ In this activity you will create a heatmap for ratings of airports.
   ![Hybrid Map](Images/08-Hybrid_Map.png)
 
   ![Terrain Map](Images/08-Terrain_Map.png)
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.

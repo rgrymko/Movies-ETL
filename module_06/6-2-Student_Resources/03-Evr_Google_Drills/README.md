@@ -13,3 +13,7 @@ In this activity we will perform API calls to the Google Places and Google Maps 
 * See the [Google Places Documentation](https://developers.google.com/maps/documentation/javascript/places#place_search_requests)
 
 * See the [Capping Queries](../../../Supplemental/Capping_Queries.md) document to set usage limits on your API calls.
+
+---
+
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
