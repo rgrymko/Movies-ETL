@@ -1,6 +1,3 @@
--- Drop table if exists
-DROP TABLE cities;
-
 -- Create a new table
 CREATE TABLE cities (
   id SERIAL PRIMARY KEY,

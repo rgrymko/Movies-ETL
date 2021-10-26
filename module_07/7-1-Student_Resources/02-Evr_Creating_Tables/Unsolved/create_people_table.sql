@@ -1,6 +1,3 @@
--- Drop table if exists
-DROP TABLE people;
-
 -- Create a new table
 CREATE TABLE people (
   name VARCHAR(30) NOT NULL,
